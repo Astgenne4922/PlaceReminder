@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="it.unipr.mobdev.placereminder.MainActivity" >
+
+    <item
+        android:id="@+id/action_toggle_tracking"
+        android:orderInCategory="100"
+        android:icon="@drawable/baseline_my_location_white_48"
+        android:title="@string/action_locate"
+        app:showAsAction="always" />
+</menu>

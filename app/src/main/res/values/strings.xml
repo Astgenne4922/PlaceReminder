@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Place Reminder</string>
+    <string name="title_map">Map</string>
+    <string name="title_list">Markers</string>
+    <string name="action_locate">Toggle Position Tracking</string>
+    <string name="creation_hint_name">Name</string>
+    <string name="creation_hint_desc">Description</string>
+    <string name="creation_button_canc">Cancel</string>
+    <string name="creation_button_create">Create</string>
+    <string name="label_name">NAME</string>
+    <string name="label_desc">DESCRIPTION</string>
+    <string name="label_address">ADDRESS</string>
+    <string name="label_lat">LATITUDE</string>
+    <string name="label_lng">LONGITUDE</string>
+    <string name="label_change">LAST CHANGE</string>
+</resources>
